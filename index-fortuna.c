@@ -73,7 +73,6 @@ int main(){
 	char escolha;
 	// gera o numero aleatorio apenas para inicializar a variavel
 	int sua_sorte = rand()%15;
-	printf("\n%d",sua_sorte);
 	// inicia o laço de repetição começando com 3 tentativas
 	printf(" \n\t\tREGRAS DO JOGO : \n");
 	printf(" \n\t\tVocê tem [3] tentativas para girar a roda\n ");
